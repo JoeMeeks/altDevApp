@@ -1,6 +1,6 @@
 {
-  "name": "myDevApp",
-  "app_id": "",
+  "name": "AltDevApp",
+  "app_id": "9d16a056",
   "type": "ionic-angular",
   "integrations": {
     "cordova": {}

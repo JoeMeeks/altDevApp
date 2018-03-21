@@ -8,6 +8,7 @@ Big difference with PhoneGaps's DevApp and Ionic's DevApp is that it doesn't hav
 * `git clone https://github.com/Tommertom/altDevApp.git`
 * cd altDevApp
 * run `npm i`
+* for remote debugging in webkit browsers run `npm i -g weinre`
 * change `config.xml` to reflect the development machine as per outline below
 * add the platform you want to use (ios/android)
 * add some plugins you want to use more (other then the ones already included, see below)
@@ -20,6 +21,11 @@ Key lines to change in config.xml (besides the name of the app and author etc - 
 If need to cordova plugins you want to use, just do the  `ionic cordova plugin add` part to add it to the altDevApp boilerplate. And of course, in the app you are developing you need to both `ionic cordova plugin add` and the `npm install ` thing.
 
 Security: this app uses cordova whitelist plugin v7 and allows you to access ANY webapp/website on the internet to be loaded in the webview container with the cordova plugins enabled. So basically extremely insecure if used improperly.
+
+## Windows Users
+Git Bash will allow npm script tasks such as "debug" in package to run in parallel. Depending on your system architecture, run either:
+`npm config set script-shell "C:\\Program Files\\Git\\bin\\bash.exe"`
+`npm config set script-shell "C:\\Program Files (x86)\\Git\\bin\\bash.exe"`
 
 ## Plugins already included
 ```

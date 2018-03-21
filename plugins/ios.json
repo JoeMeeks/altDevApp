@@ -1,0 +1,101 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "cordova-sqlite-storage": {
+      "PACKAGE_NAME": "io.ionic.altdevapp"
+    },
+    "cordova-plugin-device": {
+      "PACKAGE_NAME": "io.ionic.altdevapp"
+    },
+    "cordova-plugin-splashscreen": {
+      "PACKAGE_NAME": "io.ionic.altdevapp"
+    },
+    "cordova-plugin-statusbar": {
+      "PACKAGE_NAME": "io.ionic.altdevapp"
+    },
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "io.ionic.altdevapp"
+    },
+    "ionic-plugin-keyboard": {
+      "PACKAGE_NAME": "io.ionic.altdevapp"
+    },
+    "cordova-plugin-geolocation": {
+      "GEOLOCATION_USAGE_DESCRIPTION": " ",
+      "PACKAGE_NAME": "io.ionic.altdevapp"
+    },
+    "cordova-plugin-network-information": {
+      "PACKAGE_NAME": "io.ionic.altdevapp"
+    },
+    "cordova-plugin-inappbrowser": {
+      "PACKAGE_NAME": "io.ionic.altdevapp"
+    },
+    "cordova-plugin-x-socialsharing": {
+      "PACKAGE_NAME": "io.ionic.altdevapp"
+    },
+    "cordova-plugin-file": {
+      "PACKAGE_NAME": "io.ionic.altdevapp"
+    },
+    "cordova-plugin-badge": {
+      "PACKAGE_NAME": "io.ionic.altdevapp"
+    },
+    "cordova-plugin-vibration": {
+      "PACKAGE_NAME": "io.ionic.altdevapp"
+    },
+    "cordova-plugin-fullscreen": {
+      "PACKAGE_NAME": "io.ionic.altdevapp"
+    },
+    "cordova-plugin-mauron85-background-geolocation": {
+      "ALWAYS_USAGE_DESCRIPTION": "This app always requires location tracking",
+      "PACKAGE_NAME": "io.ionic.altdevapp"
+    },
+    "cordova-plugin-background-mode": {
+      "PACKAGE_NAME": "io.ionic.altdevapp"
+    },
+    "cordova-plugin-ble-central": {
+      "BLUETOOTH_USAGE_DESCRIPTION": " ",
+      "PACKAGE_NAME": "io.ionic.altdevapp"
+    },
+    "call-number": {
+      "PACKAGE_NAME": "io.ionic.altdevapp"
+    },
+    "cordova-plugin-contacts": {
+      "CONTACTS_USAGE_DESCRIPTION": " ",
+      "PACKAGE_NAME": "io.ionic.altdevapp"
+    },
+    "cordova-plugin-device-orientation": {
+      "PACKAGE_NAME": "io.ionic.altdevapp"
+    },
+    "de.appplant.cordova.plugin.printer": {
+      "PACKAGE_NAME": "io.ionic.altdevapp"
+    },
+    "cordova-plugin-qrscanner": {
+      "PACKAGE_NAME": "io.ionic.altdevapp"
+    },
+    "com.darktalker.cordova.screenshot": {
+      "PACKAGE_NAME": "io.ionic.altdevapp"
+    },
+    "cordova-sms-plugin": {
+      "PACKAGE_NAME": "io.ionic.altdevapp"
+    },
+    "cordova-plugin-screen-orientation": {
+      "PACKAGE_NAME": "io.ionic.altdevapp"
+    }
+  },
+  "dependent_plugins": {
+    "cordova-plugin-compat": {
+      "PACKAGE_NAME": "io.ionic.altdevapp"
+    },
+    "es6-promise-plugin": {
+      "PACKAGE_NAME": "io.ionic.altdevapp"
+    },
+    "cordova-plugin-swift-support": {
+      "PACKAGE_NAME": "io.ionic.altdevapp"
+    }
+  }
+}
